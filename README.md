@@ -1,2 +1,3 @@
 # Auto-test-course
-seleinum+python autotest course - https://stepik.org/lesson/187065
+Repository for selenium + python course 
+https://stepik.org/lesson/187065
